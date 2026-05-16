@@ -1,0 +1,7 @@
+tensorflow — used to build and train the LSTM sequence model
+scikit-learn — used for train-test split, Logistic Regression model, classification report and confusion matrix
+pandas — used for loading and reading the CSV dataset
+numpy — used for numerical operations like converting predictions to arrays
+matplotlib — used for plotting the accuracy and loss curves
+seaborn — used for creating the confusion matrix heatmap
+nltk — used for text preprocessing — specifically for stopword removal and tokenization of customer messages
