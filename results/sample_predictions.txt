@@ -1,0 +1,73 @@
+Sample Predictions — Logistic Regression + TF-IDF
+============================================================
+
+Message 1:
+Text: I need information about the payment process. My ticket number is 78732. Please respond as soon as possible.
+True Label: neutral
+Predicted:  neutral
+Match: ✓
+------------------------------------------------------------
+
+Message 2:
+Text: I need information about the payment process.
+True Label: neutral
+Predicted:  neutral
+Match: ✓
+------------------------------------------------------------
+
+Message 3:
+Text: The refund process was fast and convenient. I appreciate the quick response.
+True Label: positive
+Predicted:  positive
+Match: ✓
+------------------------------------------------------------
+
+Message 4:
+Text: My refund is still pending and this experience is frustrating. My ticket number is 33927.
+True Label: negative
+Predicted:  negative
+Match: ✓
+------------------------------------------------------------
+
+Message 5:
+Text: Please tell me how to update my account details.
+True Label: neutral
+Predicted:  neutral
+Match: ✓
+------------------------------------------------------------
+
+Message 6:
+Text: I need help finding the invoice for my last order. Please respond as soon as possible.
+True Label: neutral
+Predicted:  neutral
+Match: ✓
+------------------------------------------------------------
+
+Message 7:
+Text: I am satisfied with the plan and would recommend it to others. My ticket number is 99198.
+True Label: positive
+Predicted:  positive
+Match: ✓
+------------------------------------------------------------
+
+Message 8:
+Text: I want to understand the warranty terms for this product.
+True Label: neutral
+Predicted:  neutral
+Match: ✓
+------------------------------------------------------------
+
+Message 9:
+Text: I need help finding the invoice for my last order.
+True Label: neutral
+Predicted:  neutral
+Match: ✓
+------------------------------------------------------------
+
+Message 10:
+Text: My refund is still pending and this experience is frustrating.
+True Label: negative
+Predicted:  negative
+Match: ✓
+------------------------------------------------------------
+
